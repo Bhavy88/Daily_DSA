@@ -56,4 +56,5 @@
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Bhavy88/Daily_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0171-excel-sheet-column-number) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Bhavy88/Daily_DSA/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 <!---LeetCode Topics End-->
