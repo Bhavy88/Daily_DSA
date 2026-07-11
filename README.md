@@ -20,10 +20,12 @@
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Bhavy88/Daily_DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Bhavy88/Daily_DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhavy88/Daily_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -57,4 +59,12 @@
 | [0168-excel-sheet-column-title](https://github.com/Bhavy88/Daily_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0171-excel-sheet-column-number) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Bhavy88/Daily_DSA/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Bhavy88/Daily_DSA/tree/master/2685-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Bhavy88/Daily_DSA/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
