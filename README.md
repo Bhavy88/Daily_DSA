@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0278-first-bad-version](https://github.com/Bhavy88/Daily_DSA/tree/master/0278-first-bad-version) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavy88/Daily_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhavy88/Daily_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Bhavy88/Daily_DSA/tree/master/0223-rectangle-area) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Bhavy88/Daily_DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
