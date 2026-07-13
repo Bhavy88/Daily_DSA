@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bhavy88/Daily_DSA/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Bhavy88/Daily_DSA/tree/master/1291-sequential-digits) |
 ## Number Theory
 |  |
 | ------- |
