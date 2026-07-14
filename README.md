@@ -77,6 +77,7 @@
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Bhavy88/Daily_DSA/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhavy88/Daily_DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3813-vowel-consonant-score](https://github.com/Bhavy88/Daily_DSA/tree/master/3813-vowel-consonant-score) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
+## Simulation
+|  |
+| ------- |
+| [3813-vowel-consonant-score](https://github.com/Bhavy88/Daily_DSA/tree/master/3813-vowel-consonant-score) |
 <!---LeetCode Topics End-->
