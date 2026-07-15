@@ -69,6 +69,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Bhavy88/Daily_DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Bhavy88/Daily_DSA/tree/master/0223-rectangle-area) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Bhavy88/Daily_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bhavy88/Daily_DSA/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Bhavy88/Daily_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
 |  |
 | ------- |
