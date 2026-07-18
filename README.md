@@ -84,6 +84,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Bhavy88/Daily_DSA/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Bhavy88/Daily_DSA/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bhavy88/Daily_DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhavy88/Daily_DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Bhavy88/Daily_DSA/tree/master/0258-add-digits) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Bhavy88/Daily_DSA/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3813-vowel-consonant-score](https://github.com/Bhavy88/Daily_DSA/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhavy88/Daily_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
