@@ -73,6 +73,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Bhavy88/Daily_DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Bhavy88/Daily_DSA/tree/master/0223-rectangle-area) |
+| [0258-add-digits](https://github.com/Bhavy88/Daily_DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavy88/Daily_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhavy88/Daily_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhavy88/Daily_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bhavy88/Daily_DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Bhavy88/Daily_DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavy88/Daily_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhavy88/Daily_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhavy88/Daily_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -139,6 +141,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Bhavy88/Daily_DSA/tree/master/0258-add-digits) |
 | [3813-vowel-consonant-score](https://github.com/Bhavy88/Daily_DSA/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhavy88/Daily_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
