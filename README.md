@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0204-count-primes](https://github.com/Bhavy88/Daily_DSA/tree/master/0204-count-primes) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhavy88/Daily_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavy88/Daily_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavy88/Daily_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bhavy88/Daily_DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -21,6 +22,7 @@
 | [0383-ransom-note](https://github.com/Bhavy88/Daily_DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhavy88/Daily_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhavy88/Daily_DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
@@ -86,6 +88,7 @@
 | [0383-ransom-note](https://github.com/Bhavy88/Daily_DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhavy88/Daily_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Bhavy88/Daily_DSA/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Bhavy88/Daily_DSA/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bhavy88/Daily_DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -138,6 +141,7 @@
 | [0383-ransom-note](https://github.com/Bhavy88/Daily_DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhavy88/Daily_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bhavy88/Daily_DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhavy88/Daily_DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Trie
