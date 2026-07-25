@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/Bhavy88/Daily_DSA/tree/master/0217-contains-duplicate) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhavy88/Daily_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1920-build-array-from-permutation](https://github.com/Bhavy88/Daily_DSA/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavy88/Daily_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavy88/Daily_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bhavy88/Daily_DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Bhavy88/Daily_DSA/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/Bhavy88/Daily_DSA/tree/master/1920-build-array-from-permutation) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Bhavy88/Daily_DSA/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3813-vowel-consonant-score](https://github.com/Bhavy88/Daily_DSA/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhavy88/Daily_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
