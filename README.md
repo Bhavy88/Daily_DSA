@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Bhavy88/Daily_DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Bhavy88/Daily_DSA/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhavy88/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhavy88/Daily_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1920-build-array-from-permutation](https://github.com/Bhavy88/Daily_DSA/tree/master/1920-build-array-from-permutation) |
@@ -78,6 +79,7 @@
 | [0088-merge-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bhavy88/Daily_DSA/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhavy88/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavy88/Daily_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhavy88/Daily_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -91,6 +93,7 @@
 | [0204-count-primes](https://github.com/Bhavy88/Daily_DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Bhavy88/Daily_DSA/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Bhavy88/Daily_DSA/tree/master/0258-add-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhavy88/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavy88/Daily_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhavy88/Daily_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
