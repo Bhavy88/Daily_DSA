@@ -17,6 +17,7 @@
 | [1920-build-array-from-permutation](https://github.com/Bhavy88/Daily_DSA/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavy88/Daily_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavy88/Daily_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2363-merge-similar-items](https://github.com/Bhavy88/Daily_DSA/tree/master/2363-merge-similar-items) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bhavy88/Daily_DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhavy88/Daily_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -32,6 +33,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhavy88/Daily_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2363-merge-similar-items](https://github.com/Bhavy88/Daily_DSA/tree/master/2363-merge-similar-items) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhavy88/Daily_DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
@@ -86,6 +88,7 @@
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavy88/Daily_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavy88/Daily_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2363-merge-similar-items](https://github.com/Bhavy88/Daily_DSA/tree/master/2363-merge-similar-items) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhavy88/Daily_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhavy88/Daily_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhavy88/Daily_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -183,4 +186,8 @@
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Bhavy88/Daily_DSA/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3813-vowel-consonant-score](https://github.com/Bhavy88/Daily_DSA/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhavy88/Daily_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/Bhavy88/Daily_DSA/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
