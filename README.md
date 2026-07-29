@@ -109,6 +109,7 @@
 | [0204-count-primes](https://github.com/Bhavy88/Daily_DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Bhavy88/Daily_DSA/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Bhavy88/Daily_DSA/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Bhavy88/Daily_DSA/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavy88/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavy88/Daily_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -208,4 +209,12 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bhavy88/Daily_DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bhavy88/Daily_DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
