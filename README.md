@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Bhavy88/Daily_DSA/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Bhavy88/Daily_DSA/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/Bhavy88/Daily_DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Bhavy88/Daily_DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Bhavy88/Daily_DSA/tree/master/0238-product-of-array-except-self) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/Bhavy88/Daily_DSA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Bhavy88/Daily_DSA/tree/master/0278-first-bad-version) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavy88/Daily_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
