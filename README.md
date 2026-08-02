@@ -17,6 +17,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavy88/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/Bhavy88/Daily_DSA/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Bhavy88/Daily_DSA/tree/master/0904-fruit-into-baskets) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhavy88/Daily_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavy88/Daily_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Bhavy88/Daily_DSA/tree/master/1920-build-array-from-permutation) |
@@ -38,6 +39,7 @@
 | [0383-ransom-note](https://github.com/Bhavy88/Daily_DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
+| [0904-fruit-into-baskets](https://github.com/Bhavy88/Daily_DSA/tree/master/0904-fruit-into-baskets) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhavy88/Daily_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2363-merge-similar-items](https://github.com/Bhavy88/Daily_DSA/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavy88/Daily_DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -231,4 +233,8 @@
 | ------- |
 | [0292-nim-game](https://github.com/Bhavy88/Daily_DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Bhavy88/Daily_DSA/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Bhavy88/Daily_DSA/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
