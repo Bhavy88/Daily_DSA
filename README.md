@@ -39,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/Bhavy88/Daily_DSA/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Bhavy88/Daily_DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Bhavy88/Daily_DSA/tree/master/0904-fruit-into-baskets) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhavy88/Daily_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -74,6 +75,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Bhavy88/Daily_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Bhavy88/Daily_DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0088-merge-sorted-array) |
+| [0567-permutation-in-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0567-permutation-in-string) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavy88/Daily_DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhavy88/Daily_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhavy88/Daily_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -142,6 +144,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/Bhavy88/Daily_DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhavy88/Daily_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Bhavy88/Daily_DSA/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -245,6 +248,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Bhavy88/Daily_DSA/tree/master/0904-fruit-into-baskets) |
 ## Minimax
 |  |
