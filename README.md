@@ -152,6 +152,7 @@
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bhavy88/Daily_DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhavy88/Daily_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3110-score-of-a-string](https://github.com/Bhavy88/Daily_DSA/tree/master/3110-score-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhavy88/Daily_DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
