@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Bhavy88/Daily_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Bhavy88/Daily_DSA/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Bhavy88/Daily_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Bhavy88/Daily_DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Bhavy88/Daily_DSA/tree/master/0162-find-peak-element) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Bhavy88/Daily_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Bhavy88/Daily_DSA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Bhavy88/Daily_DSA/tree/master/0278-first-bad-version) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavy88/Daily_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -263,4 +265,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Bhavy88/Daily_DSA/tree/master/1406-stone-game-iii) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Bhavy88/Daily_DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
