@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Bhavy88/Daily_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/Bhavy88/Daily_DSA/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Bhavy88/Daily_DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Bhavy88/Daily_DSA/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/Bhavy88/Daily_DSA/tree/master/0204-count-primes) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhavy88/Daily_DSA/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Bhavy88/Daily_DSA/tree/master/0135-candy) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhavy88/Daily_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhavy88/Daily_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
