@@ -10,6 +10,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Bhavy88/Daily_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Bhavy88/Daily_DSA/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Bhavy88/Daily_DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Bhavy88/Daily_DSA/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/Bhavy88/Daily_DSA/tree/master/0204-count-primes) |
@@ -111,6 +112,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhavy88/Daily_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
