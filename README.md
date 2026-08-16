@@ -45,6 +45,7 @@
 | [0205-isomorphic-strings](https://github.com/Bhavy88/Daily_DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Bhavy88/Daily_DSA/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Bhavy88/Daily_DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
@@ -164,6 +165,7 @@
 | [0205-isomorphic-strings](https://github.com/Bhavy88/Daily_DSA/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Bhavy88/Daily_DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Bhavy88/Daily_DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhavy88/Daily_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -299,4 +302,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0287-find-the-duplicate-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
