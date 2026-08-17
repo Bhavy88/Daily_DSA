@@ -30,6 +30,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavy88/Daily_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavy88/Daily_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2363-merge-similar-items](https://github.com/Bhavy88/Daily_DSA/tree/master/2363-merge-similar-items) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Bhavy88/Daily_DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavy88/Daily_DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bhavy88/Daily_DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -149,6 +150,7 @@
 | [0877-stone-game](https://github.com/Bhavy88/Daily_DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Bhavy88/Daily_DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavy88/Daily_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Bhavy88/Daily_DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavy88/Daily_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
