@@ -91,6 +91,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Bhavy88/Daily_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavy88/Daily_DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhavy88/Daily_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhavy88/Daily_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -308,4 +309,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Bhavy88/Daily_DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
