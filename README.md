@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhavy88/Daily_DSA/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Bhavy88/Daily_DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Bhavy88/Daily_DSA/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Bhavy88/Daily_DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Bhavy88/Daily_DSA/tree/master/1406-stone-game-iii) |
@@ -141,6 +142,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bhavy88/Daily_DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Bhavy88/Daily_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Bhavy88/Daily_DSA/tree/master/0204-count-primes) |
@@ -313,4 +315,8 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Bhavy88/Daily_DSA/tree/master/0876-middle-of-the-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Bhavy88/Daily_DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
