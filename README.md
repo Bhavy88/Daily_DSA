@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/Bhavy88/Daily_DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavy88/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Bhavy88/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Bhavy88/Daily_DSA/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavy88/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
@@ -45,6 +46,7 @@
 | [0001-two-sum](https://github.com/Bhavy88/Daily_DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Bhavy88/Daily_DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Bhavy88/Daily_DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Bhavy88/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Bhavy88/Daily_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -128,6 +130,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhavy88/Daily_DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bhavy88/Daily_DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Bhavy88/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavy88/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
@@ -223,17 +226,20 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bhavy88/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavy88/Daily_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bhavy88/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bhavy88/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Bhavy88/Daily_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -299,6 +305,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavy88/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Bhavy88/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -319,4 +326,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bhavy88/Daily_DSA/tree/master/0070-climbing-stairs) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bhavy88/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
