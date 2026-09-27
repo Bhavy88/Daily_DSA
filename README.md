@@ -20,6 +20,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavy88/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Bhavy88/Daily_DSA/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/Bhavy88/Daily_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavy88/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/Bhavy88/Daily_DSA/tree/master/0877-stone-game) |
@@ -51,6 +52,7 @@
 | [0383-ransom-note](https://github.com/Bhavy88/Daily_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhavy88/Daily_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/Bhavy88/Daily_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Bhavy88/Daily_DSA/tree/master/0904-fruit-into-baskets) |
@@ -154,6 +156,7 @@
 | [0223-rectangle-area](https://github.com/Bhavy88/Daily_DSA/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Bhavy88/Daily_DSA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Bhavy88/Daily_DSA/tree/master/0292-nim-game) |
+| [0523-continuous-subarray-sum](https://github.com/Bhavy88/Daily_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavy88/Daily_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Bhavy88/Daily_DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Bhavy88/Daily_DSA/tree/master/1406-stone-game-iii) |
@@ -270,6 +273,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhavy88/Daily_DSA/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Bhavy88/Daily_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bhavy88/Daily_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Counting Sort
 |  |
@@ -313,6 +317,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Bhavy88/Daily_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/Bhavy88/Daily_DSA/tree/master/0523-continuous-subarray-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
