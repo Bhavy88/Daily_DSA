@@ -24,6 +24,7 @@
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/Bhavy88/Daily_DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Bhavy88/Daily_DSA/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Bhavy88/Daily_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhavy88/Daily_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1406-stone-game-iii](https://github.com/Bhavy88/Daily_DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavy88/Daily_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -53,6 +54,7 @@
 | [0567-permutation-in-string](https://github.com/Bhavy88/Daily_DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Bhavy88/Daily_DSA/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Bhavy88/Daily_DSA/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Bhavy88/Daily_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bhavy88/Daily_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2363-merge-similar-items](https://github.com/Bhavy88/Daily_DSA/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavy88/Daily_DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -268,6 +270,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhavy88/Daily_DSA/tree/master/0238-product-of-array-except-self) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Bhavy88/Daily_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Counting Sort
 |  |
 | ------- |
